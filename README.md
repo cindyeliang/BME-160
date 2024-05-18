@@ -1,6 +1,4 @@
 # BME-160
-Labs completed for Research Programming in the Life Sciences 2022
-# BME-160
 Labs completed for Research Programming in the Life Sciences 2022. Written in OOP.
 
 Assignments and python programs:
